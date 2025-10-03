@@ -1,0 +1,6 @@
+#función objetivo
+
+
+#instalar librerias
+
+
